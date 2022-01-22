@@ -90,10 +90,12 @@ Shorter battery life for faster speed and this will be problematic on bigger dev
 You quickly exhaust the signalling plane
 Too much data being generated
 
+<span style="color:#add8e6;font-weight:700;font-size:20px">
+TASK 2
+</span>
 
-# Day 1 
-**Task 3**
-Why esp8266?
+**Why esp8266?**
+
 It changed your life
 Less than a dollar, thus it changes the way we design
 We can use it in home automation
@@ -103,54 +105,57 @@ It's very affordable and allowed students to build their own thing
 It bridges the world of software and hardware
 It inspired creativity due to the price
 
-Why is it personally inspiring?
+**Why is it personally inspiring?**
+
 It is inspiring because it means that we can creatively explore our interests in IoT.
 
-What's the connection to coffee?
+**What's the connection to coffee?**
+
 It is the first one you saw, it's called the espresso lite, then there was a version 2
 The chip is less than a $1, so it changes how we design things.
 It is priced like a coffee
  
 
-Day 2 - Task 1
+##Day 2 
+**Task 1**
 IoT architecture terms
-Internet
+**Internet**
 The Internet is a world wide network of computers that are connected (networked) and are using the communication method called TCP/IP but that connects to the cloud.
 
-Server
+**Server**
 IoT Data Server is a "Data Integration Controller" consisting of high reliable industrial computer and non-programming data integration software.
 Servers is the cloud and the services being offered in the cloud.
 
-Cloud
+**Cloud**
 Once the data is done with the preprocessing and the analysis, 
 and all the loopholes are removed from the data, the processed data is sent 
 to the data centers and the servers that can be used for the final analysis and reporting purposes.
 The cloud is basically where everything is stored.
 
-Edge
+**Edge**
 The step deals with the preprocessing and pre analytics of the data before sending it into the actual systems. 
 Edge computing puts storage and servers where the data is.
 Edge computing as “a part of a distributed computing topology in which information processing is located close to the edge—where things and people produce or consume that information.”
 This kind of computing architecture is always connected to the internet
 
-Fog
+*Fog**
 Fog computing is a decentralized computing infrastructure or process in which computing resources are located between the data source and the cloud or any other data center.
 Fog/ edge devices connect to a gateway
 
-Swarm
+**Swarm**
 “The swarm can work w/o internet”
 Defined as the collective behaviour of decentralised, self-organised systems, Swarm Intelligence can enable a collection of multiple IoT devices to work together and exchange information, thereby achieving greater utility.
 In a swarm, devices are connected to each other
 In particular, the discipline focuses on the collective behaviors that result from the local interactions of the individuals with each other and with their environment. 
 
-Things
+**Things**
 Things are the physical objects in the IoT network, they are the actors and sensors that we connect to our architecture
 
-Nodes
+**Nodes**
 “They are our microcontrollers with not much power
 Devices with a little bit of computational power, that are in the edge, and things are connected directly to them”
 
-Gateway
+**Gateway**
 “A computer where all of our devices are connected and it is connected to the cloud”
 The data which is captured by the sensors and actuators is in analog form, 
 and to change this analog data into digital data, we need to have a mechanism in place. To work out on this process, the internet gateway is used. With the use of Data Acquisition Systems, 
